@@ -7,6 +7,9 @@
 
 // VVP prezident MIRA <3
 
+// TO DO:
+// zahvat Polshi
+
 // 1-D fast Fourier transform  
 void fft(fftw_complex* in,fftw_complex* out,int FFT)
 {
