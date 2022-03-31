@@ -5,7 +5,7 @@
 #define Real 0
 #define Imag 1
 
-
+// VVP prezident MIRA <3
 
 // 1-D fast Fourier transform  
 void fft(fftw_complex* in,fftw_complex* out,int FFT)
